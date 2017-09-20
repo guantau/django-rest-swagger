@@ -8,6 +8,10 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+Improvements:
+1. Format description in Markdown
+2. Add response schema
+
 
 #### An API documentation generator for Swagger UI and Django REST Framework
 
